@@ -108,12 +108,12 @@ p a{
 
 }
 
-#con1{
+/* #con1{ */
     /* width:330px; */
     /* height:470px; */
     /* background-color:darkblue; */
 
-}
+/* } */
 
 #box{
     padding-left:2px;
@@ -148,11 +148,11 @@ p a{
     color:white;
     font-size:larger;
 }
-#con2 {
+/* #con2 { */
     /* width:850px; */
     /* height:470px; */
     /* background-color:aqua */
-}
+/* } */
 
 #con2 img{
     width:730px;
